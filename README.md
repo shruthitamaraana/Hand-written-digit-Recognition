@@ -83,6 +83,10 @@ If you want to train the model yourself, run:
 ```bash
 python train_model.py
 ```
+# 🚀 Live Demo
+👉 [Click here to open the app]([https://your-username-your-repo-name.streamlit.](https://hand-written-digit-recognition-8ckmd6fkglcsrtnk4s4nn5.streamlit.app/))
+
+https://hand-written-digit-recognition-8ckmd6fkglcsrtnk4s4nn5.streamlit.app/
 
 📝 License
 
